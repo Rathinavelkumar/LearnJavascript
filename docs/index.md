@@ -26,7 +26,7 @@ rest/spread properties, asynchronous iteration, promise finally and RegExp
 * **`Desktop Application`** - Electron Js helps to build the cross platform desktop apps using javascript
 * **`Machine Learning`** - Tensorflow Js library helps to build the ML Models and Neuro js is an another JavaScript framework for develop reinforcement learning and deep learning models
 
-## **Characteristics of Python**
+## **Characteristics of Javascript**
 
 * **`Light Weight Scripting Language`** - Light weight is one of the best feature of js since its developed mainly for client-side execution
 * **`Dynamic Typing`** - Similar to python, Js also support dynamic typing which means that the declaration of variable data type is not mandatory
