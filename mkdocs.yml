@@ -6,6 +6,7 @@ site_description: >-
 
 nav:
     - Javascript Introduction: index.md
+    - Javascript Data Types: js_data_types.md
 
 theme:
   name: material
