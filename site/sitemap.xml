@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://learnjs.rathnaschools.com/js_operators/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://learnjs.rathnaschools.com/js_variables/</loc>
          <lastmod>2022-04-16</lastmod>
          <changefreq>daily</changefreq>
