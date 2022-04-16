@@ -8,6 +8,7 @@ nav:
     - Javascript Introduction: index.md
     - Javascript Data Types: js_data_types.md
     - Javascript Comments: js_comments.md
+    - Javascript Variables: js_variables.md
 
 theme:
   name: material
