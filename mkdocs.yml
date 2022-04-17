@@ -10,6 +10,7 @@ nav:
     - Javascript Comments: js_comments.md
     - Javascript Variables: js_variables.md
     - Javascript Operators: js_operators.md
+    - Javascript Numbers: js_numbers.md
 
 theme:
   name: material
