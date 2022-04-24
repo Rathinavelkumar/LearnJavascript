@@ -12,6 +12,7 @@ nav:
     - Javascript Operators: js_operators.md
     - Javascript Numbers: js_numbers.md
     - Number Methods: js_numbers_methods.md
+    - Javascript Strings: js_strings.md
 
 theme:
   name: material

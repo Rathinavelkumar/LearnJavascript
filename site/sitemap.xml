@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://learnjs.rathnaschools.com/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://learnjs.rathnaschools.com/js_comments/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://learnjs.rathnaschools.com/js_data_types/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://learnjs.rathnaschools.com/js_numbers/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://learnjs.rathnaschools.com/js_numbers_methods/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://learnjs.rathnaschools.com/js_operators/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <lastmod>2022-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://learnjs.rathnaschools.com/js_strings/</loc>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://learnjs.rathnaschools.com/js_variables/</loc>
-         <lastmod>2022-04-22</lastmod>
+         <lastmod>2022-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
