@@ -13,6 +13,7 @@ nav:
     - Javascript Numbers: js_numbers.md
     - Number Methods: js_numbers_methods.md
     - Javascript Strings: js_strings.md
+    - String Methods: js_string_methods.md
 
 theme:
   name: material
